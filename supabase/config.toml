@@ -1,0 +1,5 @@
+project_id = "rnogbzqfhexkxotkjgkc"
+
+[functions.analyze-scam]
+verify_jwt = false
+entrypoint = "./functions/analyze-scam/index.ts"
