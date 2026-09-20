@@ -8,7 +8,7 @@ Built during **Hackday 1.0** (September 20, 2026), **I Won't Be Scammed** is an 
 ### 🌐 Live Prototype
 
 Check out the fully functional responsive prototype here:
-👉 **[Live App Link](/url?sa=i&source=web&rct=j&url=https://senior-scam-shield-w-i13t.bolt.host/&ved=2ahUKEwib7eKl_vyWAxV3GVkFHRtDJcUQg5wRegYIAAgJEA8&opi=89978449&cd&psig=AOvVaw2QC4-yjusVSma4hx6l3KPL&ust=1789987793367000)** 
+👉 **[Live App Link]](https://senior-scam-shield-w-i13t.bolt.host/#/)** 
 
 ### 🚨 The Problem
 
